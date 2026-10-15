@@ -1,3 +1,5 @@
+# Question - Read a name and an age from the user. Print one sentence saying how old that person will be in 10 years.
+
 # First i will ask for name and store it in name variable
 # Then i will ask for age and store it in age variable and wrap it under int function
 # Then i will create a variable called updated age where i will add the current age with 10
